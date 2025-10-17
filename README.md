@@ -50,7 +50,7 @@ project-root/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/login-signup-project.git
+git clone https://github.com/sandesh-kumar02/auth-dashboard-app/tree/main
 cd login-signup-project
 
 2. Setup Backend
